@@ -38,7 +38,7 @@ Comparison of casualty counts between urban and rural accident locations.
 - Motorcycles
 - Bicycles
 - Vans
-- HGVs and more
+- Agriculture and Others.
 
 ### 🌧️ Casualties by Weather Condition
 - Weather impact on accidents:
@@ -52,13 +52,11 @@ Comparison of casualty counts between urban and rural accident locations.
 - Dry
 - Wet
 - Snow/Ice
-- Oil/Mud
-
 ---
 
 ## 📁 Data Source
 
-- UK Department for Transport (DfT) [accident dataset](https://data.gov.uk/dataset/road-accidents-safety-data)
+- UK Department for Transport (DfT) [accident dataset](https://github.com/Yam-ghub/AccidentAnalysis/blob/main/Road%20Accident%20Data.xlsx)
 - Includes accident, casualty, and vehicle-level data
 
 ---
