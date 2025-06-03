@@ -10,6 +10,8 @@ This project analyzes UK Department for Transport road accident datasets to iden
 
 ---
 
+![Dashboard Overview](Dashboard.png)
+
 ### 📌 Key KPIs
 
 - **Total Current Year Casualties**  
