@@ -1,3 +1,15 @@
+# 🚧 UK Road Accident Analysis
+
+A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
+
+---
+
+## 📈 Overview
+
+This project analyzes UK Department for Transport road accident datasets to identify trends, highlight risk factors, and provide insights into road safety. It includes visual reports and key metrics for better understanding the causes and conditions surrounding road traffic casualties.
+
+---
+
 ### 📌 Key KPIs
 
 - **Total Current Year Casualties**  
