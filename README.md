@@ -70,8 +70,8 @@ Comparison of casualty counts between urban and rural accident locations.
 
 ## 📁 Data Source
 
-- Accident Dataset [click_here](https://github.com/Yam-ghub/AccidentAnalysis/blob/main/Road%20Accident%20Data.xlsx)
-- Includes accident, casualty, and vehicle-level data
+- Accident Dataset [open dataset](https://github.com/Yam-ghub/AccidentAnalysis/blob/main/Road%20Accident%20Data.xlsx)
+- Includes details of road accidents with severity, date, time, and exact location (latitude and longitude). It also includes the number of casualties per incident, enabling analysis of accident impact and patterns. Environmental and road conditions are also covered to support context-based insights.
 
 ---
 
